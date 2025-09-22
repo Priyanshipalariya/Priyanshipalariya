@@ -2,12 +2,12 @@
 
 I'm a passionate Full-Stack Developer from India, currently building cool things on the web. I love turning complex problems into simple, beautiful, and intuitive solutions.
 
-* 🔭 I’m currently working on a social media platform using the MERN stack.
-* 🌱 I’m currently learning Go and exploring backend development with it.
+* 🔭 I’m currently working on a E-commerce website using the MERN stack.
+* 🌱 I’m currently exploring backend development with Firebase.
 * 🤝 I’m looking for help with open-source projects.
 * 💬 Ask me about React, Node.js, and JavaScript.
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priyanshi-palariya-92412831b) | priyanshi.nitrr26@gmail.com
-* ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
+
 
 ---
 
